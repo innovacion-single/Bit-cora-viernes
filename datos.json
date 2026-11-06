@@ -59,6 +59,17 @@
     "pct": 5,
     "proxima": "",
     "ts": "2026-10-30T18:20:11.347Z"
+   },
+   {
+    "bloqueo": "",
+    "comentario": "",
+    "estatus": "tiempo",
+    "fecha": "2026-11-06",
+    "id": "mw5b22smksflu",
+    "logro": "El Agente ya tiene identidad y tiene cargado toda la info disponible y actualizada",
+    "pct": 25,
+    "proxima": "Definir el alcance del agente",
+    "ts": "2026-11-06T18:25:48.454Z"
    }
   ],
   "meta": "2026-11-30",
@@ -82,6 +93,17 @@
     "pct": 5,
     "proxima": "",
     "ts": "2026-10-30T18:18:33.815Z"
+   },
+   {
+    "bloqueo": "",
+    "comentario": "",
+    "estatus": "tiempo",
+    "fecha": "2026-11-06",
+    "id": "mw5b2qgjjoti5",
+    "logro": "El Agente ya tiene identidad y tiene cargado toda la info disponible y actualizada",
+    "pct": 25,
+    "proxima": "Definir el alcance del agente",
+    "ts": "2026-11-06T18:26:19.123Z"
    }
   ],
   "meta": "2026-11-30",
@@ -123,6 +145,17 @@
     "pct": 30,
     "proxima": "",
     "ts": "2026-10-30T18:23:37.927Z"
+   },
+   {
+    "bloqueo": "Descargar las pólizas masivamente, (estamos en investigación y pruebas)",
+    "comentario": "",
+    "estatus": "tiempo",
+    "fecha": "2026-11-06",
+    "id": "mw5b58z9zefvx",
+    "logro": "Quedó establecida la manera de migrar las pólizas",
+    "pct": 40,
+    "proxima": "Empezar con la migración.",
+    "ts": "2026-11-06T18:28:16.437Z"
    }
   ],
   "meta": "2026-11-16",
@@ -135,7 +168,19 @@
   "creado": "2026-11-03",
   "descripcion": "Renovación de la página web incluido un multi-agente que identifique (Pregunte) por el tipo de plan del interesado y lo conecte al agente correspondiente por medio de sub dominios u otra alternativa",
   "frente": "Transformación digital",
-  "historial": [],
+  "historial": [
+   {
+    "bloqueo": "",
+    "comentario": "",
+    "estatus": "tiempo",
+    "fecha": "2026-11-06",
+    "id": "mw5b68nj2qvhy",
+    "logro": "Escaneo de la página web, funcionalidades y SEO",
+    "pct": 10,
+    "proxima": "Definir los cambios (alojar a los agentes estilo Timi)",
+    "ts": "2026-11-06T18:29:02.671Z"
+   }
+  ],
   "meta": "2026-11-30",
   "nombre": "Renovación Pagina web",
   "responsable": "Alex / Innovación"
@@ -256,6 +301,17 @@
     "pct": 5,
     "proxima": "Darle memoria, entrenamiento con la información correspondiente",
     "ts": "2026-10-30T18:22:10.297Z"
+   },
+   {
+    "bloqueo": "respuesta de MAPFRE",
+    "comentario": "",
+    "estatus": "tiempo",
+    "fecha": "2026-11-06",
+    "id": "mw5b3zrtpcx00",
+    "logro": "Agente con toda la info cargada. Proceso de atención como si fuera un humano comprobado",
+    "pct": 30,
+    "proxima": "definición de variables y esperar la respuesta de la API de MAPFRE",
+    "ts": "2026-11-06T18:27:17.849Z"
    }
   ],
   "meta": "2026-11-30",
